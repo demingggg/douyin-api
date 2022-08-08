@@ -2,6 +2,8 @@
 douyin api
 
 ## skype: live:.cid.90f242255e54ef9b
+# telegram: @jingsong87
+https://t.me/jingsong87
 
 
 # 抖音Api：搜索、用户、视频、直播、带货、话题、推荐、榜单
